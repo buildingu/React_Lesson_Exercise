@@ -1,5 +1,5 @@
 # buildingU_React_Lesson_Exercise
-These are the instructions for this exercise.
+These are the instructions for the React 18 exercise.
 
 ## Prerequisites
 - Completed both JavaScript lessons.
@@ -11,15 +11,15 @@ Demonstrate your understanding of various React hooks through a series of challe
 
 ## Instructions
 ### Step 1: Download the Project
-1. Download the project as a zip file from the [repository](https://github.com/dBish6/buildingU_React_Lesson_Exercise) and extract it to your desired location. **Do not clone** the repository since you're not contributing to it.
-2. Open the project directory in your preferred code editor or IDE.
+1. Download the project as a zip file from the [repository](https://github.com/dBish6/buildingU_React_Lesson_Exercise), **Do not clone** the repository since you're not contributing to it, and extract it to your bu-learning repository with the name `Exercise 7` or any other name you think makes sense. You should already have the bu-learning repository cloned, if not, clone it [here](https://github.com/buildingu/bu-learning.git).
+2. Open the exercise directory in your preferred code editor or IDE.
 
 ### Step 2: Set Up the React App
-Navigate to the project directory if needed and install the dependencies:
+At the same level where the package.json is located install the dependencies in a terminal:
 ```
-$ cd your-project-directory
 $ npm install
 ```
+
 ### Step 3: The Challenges
 Each challenge focuses on demonstrating the concept of each hook except the final challenge where you can use however many hooks you want. You will find the challenges in the src/components directory.
 - Each file is named according to the hook it demonstrates.
@@ -56,3 +56,16 @@ $ npm run dev:<hook name>
 Instead of using npm scripts like I mentioned to navigate between challenges, you can implement client-side routing using [`react-router-dom`](https://reactrouter.com) to create a page for each challenge. This will require modifying `App.jsx` to include route paths for each challenge and use the component as a page.
 
 If you decide to implement routing, you can delete the individual challenge scripts from the `package.json` and only use the `"dev"` script to run the app.
+
+## Your Submission
+1. Open a terminal in your code editor (e.g., VSCode) or use Git Bash/any other terminal of your choice if not open already.
+2. Ensure you are on your branch, it should be named as the first letter of your first name, followed by an underscore, and your last name (e.g., j_doe). If you somehow didn't create your branch yet use `git checkout -b your_branch_name` to create it.
+3. Make the necessary changes to the files required in the exercise and stage your changes using `git add <filename>` to add specific files, or use `git add .` to stage all modified files.
+4. Commit your files with a message (see commit message convention: [Conventional Commit Message](https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13)) using:
+```
+$ git commit -m "feat: Insert message here"
+```
+5. Push the changes on your branch to the remote repository using:
+```
+$ git push origin your-branch-name
+```
