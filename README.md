@@ -1,4 +1,4 @@
-# buildingU_React_Lesson_Exercise
+# React_Lesson_Exercise
 These are the instructions for the React 18 exercise.
 
 ## Prerequisites
@@ -11,7 +11,7 @@ Demonstrate your understanding of various React hooks through a series of challe
 
 ## Instructions
 ### Step 1: Download the Project
-1. Download the project as a zip file from the [repository](https://github.com/buildingu/buildingU_React_Lesson_Exercise), **Do not clone** the repository since you're not contributing to it, and extract it to your bu-learning repository with the name `Exercise 7` or any other name you think makes sense. You should already have the bu-learning repository cloned, if not, clone it [here](https://github.com/buildingu/bu-learning.git).
+1. Download the project as a zip file from the [repository](https://github.com/buildingu/React_Lesson_Exercise), **Do not clone** the repository since you're not contributing to it, and extract it to your bu-learning repository with the name `Exercise 7` or any other name you think makes sense. You should already have the bu-learning repository cloned, if not, clone it [here](https://github.com/buildingu/bu-learning.git).
 2. Open the exercise directory in your preferred code editor or IDE.
 
 ### Step 2: Set Up the React App
