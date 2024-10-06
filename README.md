@@ -1,5 +1,5 @@
 # React_Lesson_Exercise
-These are the instructions for the React 18 exercise.
+Welcome to the React 18 exercise. Upon completion of this exercise, you'll have permission to join the 'New Website' team, where you can contribute to a [real-world React application](https://github.com/buildingu/bu-front) for building-U. 
 
 ## Prerequisites
 - Completed both JavaScript lessons.
