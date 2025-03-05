@@ -16,7 +16,7 @@
  *    - Create a login function and initializes the user.
  *    - Create a logout function that clears the user and displays a message like "User session timed out." (you can use a alert).
  * 2. Go to the `App.jsx` file and wrap the `AuthContextProvider` around `UseContextChallenge`.
- * 3. Go to the `UserMessage.jsx` file, and follow the steps there.
+ * 3. Go to the `UseContext.jsx` file, and follow the steps there.
  */
 
 import { createContext, useState } from "react";
