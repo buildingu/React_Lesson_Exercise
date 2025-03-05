@@ -11,18 +11,19 @@
     "dev:useReducer": "cross-env VITE_REACT_CHALLENGE=useReducer vite",
     "dev:useMemo": "cross-env VITE_REACT_CHALLENGE=useMemo vite",
     "dev:final": "cross-env VITE_REACT_CHALLENGE=final vite",
-    "dev": "vite"
+    "dev": "vite",
+    "start": "vite"
   },
   "dependencies": {
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1",
-    "uuid": "^10.0.0"
+    "react": "^18",
+    "react-dom": "^18",
+    "uuid": "^10"
   },
   "devDependencies": {
-    "@types/react": "^18.3.3",
-    "@types/react-dom": "^18.3.0",
-    "@vitejs/plugin-react": "^4.3.1",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "@vitejs/plugin-react": "~4.3.0",
     "cross-env": "^7.0.3",
-    "vite": "^5.4.1"
+    "vite": "~6.2.0"
   }
 }
