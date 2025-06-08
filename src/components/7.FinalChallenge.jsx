@@ -7,7 +7,7 @@
  *
  * Validation:
  * Display validation messages under each input if the input is invalid using useState and the error message should clear for the specific 
- * field one if the user types in the field.
+ * field if the user types in the field.
  * 
  * - All fields are required.
  * - `First name` and `last name` fields should have a max character count of 120.
