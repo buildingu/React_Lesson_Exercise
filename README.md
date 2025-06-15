@@ -9,7 +9,7 @@ Welcome to the React 18 exercise. Upon completion of this exercise, you'll have 
 ## Objective
 Demonstrate your understanding of various React hooks through a series of challenges. Each challenge will focus on a specific hook, and the final challenge will incorporate multiple hooks. Use this exercise to explore how React hooks can be used together to build dynamic forms and UI elements.
 
-<b>ALSO DO NOT INSTALL PACKAGES</b>, that challenge will automatically be wrong.
+<b>ALSO DO NOT INSTALL OTHER PACKAGES</b>, that challenge will automatically be wrong.
 
 ## Instructions
 ### Step 1: Download the Project
