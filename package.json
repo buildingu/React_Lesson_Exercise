@@ -11,8 +11,7 @@
     "dev:useReducer": "cross-env VITE_REACT_CHALLENGE=useReducer vite",
     "dev:useMemo": "cross-env VITE_REACT_CHALLENGE=useMemo vite",
     "dev:final": "cross-env VITE_REACT_CHALLENGE=final vite",
-    "dev": "vite",
-    "start": "vite"
+    "dev": "vite"
   },
   "dependencies": {
     "react": "^18",
