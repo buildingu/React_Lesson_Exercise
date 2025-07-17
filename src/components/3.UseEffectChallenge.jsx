@@ -12,7 +12,7 @@
 
 import { useEffect, useState } from "react";
 
-export default function UseStateChallenge() {
+export default function UseEffectChallenge() {
   return (
     <main>
       <h1>useEffect Challenge</h1>
