@@ -13,7 +13,7 @@
  * - `First name` and `last name` fields should have a max character count of 120.
  * - The `age` field must:
  *    1. Must be a number
- *    2. Have max character count of 3.
+ *    2. Have max character count of 2.
  *    3. Must be 18 or older.
  * - The `phone` field must:
  *    1. Must be a number
